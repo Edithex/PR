@@ -1,0 +1,17 @@
+Podaj liczbe watkow: 
+Poczatek procedury macierz-wektor
+
+czas standardowy = 1.450000
+czas CPU         = 1.445096
+czas zegarowy    = 0.188622
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.188609, Gflop/s: 3.909047, GB/s> 15.637004
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 1.460000
+czas CPU         = 1.462385
+czas zegarowy    = 0.183264
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.183257, Gflop/s: 4.023210, GB/s> 16.093678

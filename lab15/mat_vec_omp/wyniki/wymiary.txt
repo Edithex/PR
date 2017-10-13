@@ -1,0 +1,4 @@
+//#define WYMIAR 19200 // 8
+//#define WYMIAR 19210 // 4
+//#define WYMIAR 19160 // 2
+#define WYMIAR 19010 // 1

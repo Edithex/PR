@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+/home/student/Pulpit/lab7/.metadata/.plugins/org.eclipse.jdt.core
+1377831502.index

@@ -1,0 +1,21 @@
+watek glowny: tworzenie watku potomnego nr 1
+	watek potomny id systemowe: 139803324417792
+	watek potomny id iteracji: 0
+	watek potomny id systemowe: 139803316025088
+	watek potomny id iteracji: 1
+	watek potomny id systemowe: 139803307632384
+	watek potomny id iteracji: 2
+	watek potomny id systemowe: 139803299239680
+	watek potomny id iteracji: 3
+	watek potomny id systemowe: 139803290846976
+	watek potomny id iteracji: 4
+	watek potomny id systemowe: 139803282454272
+	watek potomny id iteracji: 5
+	watek potomny id systemowe: 139803274061568
+	watek potomny id iteracji: 6
+	watek potomny id systemowe: 139803265668864
+	watek potomny id iteracji: 7
+	watek potomny id systemowe: 139803257276160
+	watek potomny id iteracji: 8
+	watek potomny id systemowe: 139803248883456
+	watek potomny id iteracji: 9

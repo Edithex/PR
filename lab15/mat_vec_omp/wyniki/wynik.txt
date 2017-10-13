@@ -1,0 +1,77 @@
+Podaj liczbe watkow: 1
+Poczatek procedury macierz-wektor
+
+czas standardowy = 0.870000
+czas CPU         = 0.872932
+czas zegarowy    = 0.874479
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.874471, Gflop/s: 3.372462, GB/s> 13.490199
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 1.120000
+czas CPU         = 1.121423
+czas zegarowy    = 1.123214
+
+Koniec procedury macierz-wektor
+	czas wykonania: 1.123210, Gflop/s: 2.625617, GB/s> 10.502740
+
+---------------------------------------------------------------------------------
+
+Podaj liczbe watkow: 2
+Poczatek procedury macierz-wektor
+
+czas standardowy = 1.560000
+czas CPU         = 1.556586
+czas zegarowy    = 0.779531
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.779522, Gflop/s: 3.783243, GB/s> 15.133367
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 1.450000
+czas CPU         = 1.450283
+czas zegarowy    = 0.726253
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.726249, Gflop/s: 4.060756, GB/s> 16.243445
+
+---------------------------------------------------------------------------------
+
+Podaj liczbe watkow: 4
+Poczatek procedury macierz-wektor
+
+czas standardowy = 2.970000
+czas CPU         = 2.959694
+czas zegarowy    = 0.743798
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.743790, Gflop/s: 3.964988, GB/s> 15.860366
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 2.850000
+czas CPU         = 2.855424
+czas zegarowy    = 0.725397
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.725393, Gflop/s: 4.065545, GB/s> 16.262605
+
+---------------------------------------------------------------------------------
+
+Podaj liczbe watkow: 8
+Poczatek procedury macierz-wektor
+
+czas standardowy = 5.940000
+czas CPU         = 5.938030
+czas zegarowy    = 0.749263
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.749252, Gflop/s: 3.936085, GB/s> 15.744749
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 5.850000
+czas CPU         = 5.849824
+czas zegarowy    = 0.734177
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.734171, Gflop/s: 4.016941, GB/s> 16.068183

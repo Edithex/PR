@@ -1,0 +1,25 @@
+/usr/lib64/openmpi/bin/mpiexec -np 1 MPI_calka
+Calka wynosi:    1.999999999621193; czas wykonania 0.630818
+
+/usr/lib64/openmpi/bin/mpiexec -np 2 MPI_calka
+Calka wynosi:    1.999999999248038; czas wykonania 0.376182
+
+/usr/lib64/openmpi/bin/mpiexec -np 4 MPI_calka
+Calka wynosi:    1.999999999427322; czas wykonania 0.272755
+
+/usr/lib64/openmpi/bin/mpiexec -np 8 MPI_calka
+Calka wynosi:    1.999999999662311; czas wykonania 0.177765
+
+-----------------------------------------------------------------------------------------
+
+/usr/lib64/openmpi/bin/mpiexec -np 1 MPI_calka
+Calka wynosi:    1.999999999621193; czas wykonania 0.632056
+
+/usr/lib64/openmpi/bin/mpiexec -np 2 MPI_calka
+Calka wynosi:    1.999999999248038; czas wykonania 0.376518
+
+/usr/lib64/openmpi/bin/mpiexec -np 4 MPI_calka
+Calka wynosi:    1.999999999427322; czas wykonania 0.261110
+
+/usr/lib64/openmpi/bin/mpiexec -np 8 MPI_calka
+Calka wynosi:    1.999999999662311; czas wykonania 0.182857

@@ -1,0 +1,104 @@
+Otwieramy pub (simple)!
+Liczba wolnych kufli 3
+Klient 0, wchodzę do pubu
+
+Kufel zablokowany
+
+Są wolne kufle
+
+Podaję piwo w kuflu.
+Klient 0, wybieram kufel
+Klient 0, nalewam z kranu 0
+Klient 2, wchodzę do pubu
+
+Kufel zablokowany
+
+Są wolne kufle
+
+Podaję piwo w kuflu.
+Klient 2, wybieram kufel
+Klient 2, nalewam z kranu 0
+Klient 1, wchodzę do pubu
+
+Kufel zablokowany
+
+Są wolne kufle
+
+Podaję piwo w kuflu.
+Klient 1, wybieram kufel
+Klient 1, nalewam z kranu 0
+Klient 3, wchodzę do pubu
+
+Kufel zablokowany
+Klient 3, wybieram kufel
+Klient 3, nalewam z kranu 0
+Klient 4, wchodzę do pubu
+
+Kufel zablokowany
+Klient 4, wybieram kufel
+Klient 4, nalewam z kranu 0
+Klient 2, pije
+Klient 0, pije
+Klient 3, pije
+Klient 1, pije
+Klient 4, pije
+Klient 2, odkladam kufel
+Klient 2 zwrocił kufel. Liczba kufli: 1
+
+Kufel zablokowany
+
+Są wolne kufle
+
+Podaję piwo w kuflu.
+Klient 2, wybieram kufel
+Klient 2, nalewam z kranu 0
+Klient 3, odkladam kufel
+
+Kufel zablokowany
+Klient 3, wybieram kufel
+Klient 3, nalewam z kranu 0
+Klient 0, odkladam kufel
+Klient 0 zwrocił kufel. Liczba kufli: 1
+
+Kufel zablokowany
+
+Są wolne kufle
+
+Podaję piwo w kuflu.
+Klient 0, wybieram kufel
+Klient 4, odkladam kufel
+Klient 0, nalewam z kranu 0
+
+Kufel zablokowany
+Klient 4, wybieram kufel
+Klient 4, nalewam z kranu 0
+Klient 1, odkladam kufel
+Klient 1 zwrocił kufel. Liczba kufli: 1
+
+Kufel zablokowany
+
+Są wolne kufle
+
+Podaję piwo w kuflu.
+Klient 1, wybieram kufel
+Klient 1, nalewam z kranu 0
+Klient 2, pije
+Klient 3, pije
+Klient 0, pije
+Klient 4, pije
+Klient 1, pije
+Klient 3, odkladam kufel
+Klient 4, odkladam kufel
+Klient 3, wychodzę z pubu
+Klient 4, wychodzę z pubu
+Klient 2, odkladam kufel
+Klient 2 zwrocił kufel. Liczba kufli: 1
+Klient 2, wychodzę z pubu
+Klient 1, odkladam kufel
+Klient 0, odkladam kufel
+Klient 1 zwrocił kufel. Liczba kufli: 2
+Klient 1, wychodzę z pubu
+Klient 0 zwrocił kufel. Liczba kufli: 3
+Klient 0, wychodzę z pubu
+Zamykamy pub!
+Liczba wolnych kufli 3

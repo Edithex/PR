@@ -1,0 +1,68 @@
+Podaj liczbe watkow: 
+Poczatek procedury macierz-wektor
+
+czas standardowy = 0.380000
+czas CPU         = 0.377548
+czas zegarowy    = 0.189158
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.189151, Gflop/s: 3.901903, GB/s> 15.608425
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 0.360000
+czas CPU         = 0.358476
+czas zegarowy    = 0.181017
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.181014, Gflop/s: 4.077298, GB/s> 16.310042
+Podaj liczbe watkow: 
+Poczatek procedury macierz-wektor
+
+czas standardowy = 0.390000
+czas CPU         = 0.382569
+czas zegarowy    = 0.191585
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.191578, Gflop/s: 3.852477, GB/s> 15.410708
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 0.360000
+czas CPU         = 0.362642
+czas zegarowy    = 0.181770
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.181766, Gflop/s: 4.060442, GB/s> 16.242612
+Podaj liczbe watkow: 
+Poczatek procedury macierz-wektor
+
+czas standardowy = 0.380000
+czas CPU         = 0.376626
+czas zegarowy    = 0.189162
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.189154, Gflop/s: 3.901839, GB/s> 15.608170
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 0.360000
+czas CPU         = 0.362275
+czas zegarowy    = 0.181328
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.181325, Gflop/s: 4.070312, GB/s> 16.282096
+Podaj liczbe watkow: 
+Poczatek procedury macierz-wektor
+
+czas standardowy = 0.390000
+czas CPU         = 0.374056
+czas zegarowy    = 0.188706
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.188698, Gflop/s: 3.911266, GB/s> 15.645878
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 0.360000
+czas CPU         = 0.361069
+czas zegarowy    = 0.180811
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.180807, Gflop/s: 4.081970, GB/s> 16.328729

@@ -1,0 +1,16 @@
+watek glowny: tworzenie watku potomnego nr 1
+	watek potomny: uniemozliwione zabicie
+	watek glowny: wyslanie sygnalu zabicia watku
+	watek potomny: umozliwienie zabicia
+	watek glowny: watek potomny zostal zabity
+watek glowny: tworzenie watku potomnego nr 2
+	watek potomny: uniemozliwione zabicie
+	watek glowny: odlaczenie watku potomnego
+	watek glowny: wyslanie sygnalu zabicia watku odlaczonego
+Watek nie zostal zakonczony
+watek glowny: tworzenie odlaczonego watku potomnego nr 3
+	watek glowny: koniec pracy, watek odlaczony pracuje dalej
+	watek potomny: uniemozliwione zabicie
+	watek potomny: umozliwienie zabicia
+	watek potomny: umozliwienie zabicia
+	watek potomny: zmiana wartosci zmiennej wspolnej
